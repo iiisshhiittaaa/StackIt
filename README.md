@@ -1,4 +1,4 @@
-# STACKIT - Odoo Hackathon Project
+# StackIt - Odoo Hackathon Project
 
 🌐 Live Demo https://theycotes.com/Stackit/project%202/index.php
 
